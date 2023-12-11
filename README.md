@@ -1,4 +1,8 @@
 # Pedro Ruvalcaba
+
+Ingeniero Industrial y de sistemas
+Egresado de la Universidad Autonoma de Ciudad Juarez UACJ - IIT
+
 | lenguaje de programacion | Calificacion |
 |--------------------------|--------------|
 | Python 3.0               |  80%         |
