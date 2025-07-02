@@ -68,7 +68,8 @@ NOTA: Mis posiciones de la empresa fue desde  Jefe de grupo de caliad - Ingenier
 
 Contacto:  
 [Correo electronico] (i.ruvalcaba0212@gmail.com)
-[Whatsapp] (656 756-91-10)
+[Whatsapp] (656 570-78-43)
 
 
-![Logo de Giphy](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+
