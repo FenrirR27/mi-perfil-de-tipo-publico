@@ -1,6 +1,6 @@
 # Pedro Ruvalcaba
 
-Ingeniero Industrial y de sistemas  
+Ingeniero Industrial y sistemas  
 Egresado de la Universidad Autonoma de Ciudad Juarez UACJ - IIT
 
 Capacitaciones y entrenamientos  
@@ -16,7 +16,15 @@ Capacitaciones y entrenamientos
 | OEE                                     |  Completo    |
 | Metodologia Kanban                      |  Completo    |
 | Diseño del Producto                     |  Completo    |
-| Diseño Web                              |  Proceso     |
+| Diseño Web                              |  Completo    |
+| Aumatizacion de aplicaciones moviles    |  Completo    |
+| Programacio de Arduino                  |  Completo    |
+| Analisis de datos                       |  Completo    |
+| Yellow Belt                             |  Completo    |
+| Green Belt                              |  Completo    |
+| Probabilidad y estadistica              |  Completo    |
+| Project Management PMIB                 |  Completo    |
+| PPAP                                    |  Completo    |
 
 
 
